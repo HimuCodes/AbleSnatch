@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AbleSnatch - Ableton Downloader
 // @namespace    https://github.com/HimuCodes/AbleSnatch
-// @version      2.10 // Or your current version, e.g., 1.0.0 for initial release
+// @version      1.00
 // @description  Replaces Ableton trial download button with a styled selector for stable/beta versions, with animations and stable layout.
 // @author       HimuCodes
 // @match        https://www.ableton.com/en/trial/
